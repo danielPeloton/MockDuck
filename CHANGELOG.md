@@ -1,3 +1,7 @@
+# [1.2]
+
+* WIP
+
 # [1.1 (2020-07-01)](https://github.com/buzzfeed/MockDuck/releases/tag/1.1)
 
 * Updated for Swift 5 ([#19](https://github.com/buzzfeed/MockDuck/pull/19)) @scelis
