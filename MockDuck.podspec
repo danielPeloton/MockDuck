@@ -14,6 +14,6 @@ Pod::Spec.new do |spec|
 
   spec.pod_target_xcconfig = {
     'FRAMEWORK_SEARCH_PATHS' => '$(PLATFORM_DIR)/Developer/Library/Frameworks',
-    'ENABLE_BITCODE' => 'NO'
+    'ENABLE_BITCODE' => 'YES'
   }
 end
